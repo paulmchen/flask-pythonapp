@@ -1,2 +1,2 @@
 # flask-pythonapp
-flask-pythonapp example
+Python web app example (with Flask web framework)
